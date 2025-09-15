@@ -1,4 +1,4 @@
-    <style>
+
         .weather-widget {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background: linear-gradient(135deg, #1a2a6c, #2a4b8c);
@@ -160,7 +160,6 @@
         .fa-spin {
             animation: spin 1.5s linear infinite;
         }
-    </style>
 * {
             margin: 0;
             padding: 0;
@@ -296,5 +295,6 @@
             color: #95a5a6;
             margin-top: 15px;
         }
+
 
 
